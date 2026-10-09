@@ -1,0 +1,13 @@
+{
+  "model": "/cache/models/nemotron",
+  "limit": 0,
+  "epochs": 2.0,
+  "batch_size": 8,
+  "grad_accum": 2,
+  "lr": 0.0001,
+  "lora_r": 16,
+  "lora_alpha": 32,
+  "seed": 13,
+  "no_label_list": false,
+  "n_rows": 9993
+}
